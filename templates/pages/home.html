@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Home{% endblock title %}
+
+{% block content %}
+    <div class="home">
+        <h1>Welcome to Music Critic</h1>
+        <p>Reviewing albums since the year 2000.</p>
+        <img src="{% static 'img/topsters2.png' %}">
+    </div>
+{% endblock content %}

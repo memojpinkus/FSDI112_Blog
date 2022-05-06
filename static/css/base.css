@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(11, 21, 40, 1);
+}
+
+.navbar-custom{
+    background-color: rgb(21, 34, 56, 1);
+    margin-bottom: 50px;
+}
+
+.navbar-custom .navbar-brand, .navbar-custom .navbar-text{
+    
+    color: white;
+}
+
+.navbar-text{
+    color: white;
+}
+
+.content {
+    margin: 10px;
+    padding: 10px;
+}
+
+.about img{
+    height: 300px;
+    margin-right: 50px;
+}
+
+.about{
+    display: flex;
+}
+
+.about p{
+    font-size: 25px;
+    text-align: justify;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: white;
+}
+
+.card-header{
+    background-color: rgb(32, 35, 47, 1);
+}
+
+.card-header h5{
+    color: white;
+}
+
+.card-body{
+    background-color: rgb(18, 21, 32, 1);
+}
+
+.home{
+    text-align: center;
+}
+
+.home img{
+    height: 600px;
+}
+
+.newpost form{
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+strong{
+    color: rgb(112, 187, 251, 1);
+}

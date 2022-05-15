@@ -73,3 +73,19 @@ p{
 strong{
     color: rgb(112, 187, 251, 1);
 }
+
+.detail-btn{
+    display: flex;
+}
+
+.detail-btn p{
+    margin-right: 20px;
+}
+
+small{
+    color: white;
+}
+
+li{
+    color: white;
+}
